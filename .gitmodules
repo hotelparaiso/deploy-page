@@ -1,4 +1,3 @@
-[submodule "public"]
-	path = public
-	url = git@github.com:hotelparaiso/hotelparaiso.github.io.git
-	branch = master
+[submodule "themes/paradise"]
+	path = themes/psradise
+	url = https://github.com/hotelparaiso/deploy-page/tree/master/themes/paradise
